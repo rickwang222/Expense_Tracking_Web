@@ -69,19 +69,19 @@ along with a very brief caption:**
 ![](ColorScheme.jpg?raw=true "Color Scheme")
 
 ### Login Page
-![](/site-images/login_page.jpg?raw=true "Login Page")
+![](login_page.jpg?raw=true "Login Page")
 
 ### Groups Page
-![](/site-images/groups_page.jpg?raw=true "Groups Page")
+![](groups_page.jpg?raw=true "Groups Page")
 
 ### Group Details Page
-![](/site-images/group_details.jpg?raw=true "Group Details Page")
+![](group_details.jpg?raw=true "Group Details Page")
 
 ### Group Member Page
-![](/site-images/group_member.jpg?raw=true "Group Member Page")
+![](group_member.jpg?raw=true "Group Member Page")
 
 ### Group Expense Page
-![](/site-images/expense.jpg?raw=true "Group Expense Page")
+![](expense.jpg?raw=true "Group Expense Page")
 
 
 
