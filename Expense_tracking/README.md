@@ -25,33 +25,6 @@ Which (if any) progressive web app feature(s) does your app support?
 * N/A
 
 
-
-## Mockup images
-
-**[Add images/photos that show your mockup](https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository) along with a very brief caption:**
-
-### Login Page
-![](/mock-ups/login_page.jpg?raw=true "Login Page")
-
-### Home Page
-![](/mock-ups/home_page.jpg?raw=true "Home Page")
-
-### New Group Page
-![](/mock-ups/new_group_page.jpg?raw=true "New Group Page")
-
-### Group Page
-![](/mock-ups/group_page.jpg?raw=true "Group Page")
-
-### Add Expense Page
-![](/mock-ups/add_expense_page.jpg?raw=true "Add Expense Page")
-
-### Member Page
-![](/mock-ups/member_page.jpg?raw=true "Member Page")
-
-### Expense Details Page
-![](/mock-ups/expense_details_page.jpg?raw=true "Expense Details Page")
-
-
 ## Testing Notes
 
 **Is there anything special we need to know in order to effectively test your app? (optional):**
